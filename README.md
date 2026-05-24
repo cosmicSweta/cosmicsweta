@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Sweta Singh 👋
 
-<!--
-**cosmicSweta/cosmicsweta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Student at ITM SLS Baroda University
 
-Here are some ideas to get you started:
+💻 Aspiring Frontend Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning:
+- HTML
+- CSS
+- JavaScript
+
+📌 Interested in:
+- Frontend Development
+- Responsive Web Design
+- UI Design
+
+🔗 Connect with me:
+
+GitHub:
+https://github.com/cosmicSweta
+
+LinkedIn:
+https://www.linkedin.com/in/sweta-singh-a1294538b/
